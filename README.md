@@ -76,30 +76,6 @@ The chatbot aims to:
 
 ---
 
-## 📸 Project Screenshots
-
-Include screenshots of:
-
-- Botpress Dashboard
-- Workflow Design
-- Knowledge Base Configuration
-- AI Responses
-- User Interaction
-- Published Chatbot
-
-Example:
-
-```
-screenshots/
-│── dashboard.png
-│── workflow.png
-│── knowledge-base.png
-│── chatbot-response.png
-│── published-chatbot.png
-```
-
----
-
 ## 🚀 Live Demo
 
 👉 **Try the chatbot here:**
@@ -128,25 +104,6 @@ Try asking:
 - Give me Python interview questions.
 - How can I improve my programming skills?
 - Suggest a study plan for AI.
-
----
-
-## 📁 Project Structure
-
-```
-AI-Study-Mentor-SDG4/
-│
-├── README.md
-├── LICENSE
-├── screenshots/
-│   ├── dashboard.png
-│   ├── workflow.png
-│   ├── knowledge-base.png
-│   ├── chatbot-response.png
-│   └── published-chatbot.png
-└── docs/
-    └── Project_Report.pdf
-```
 
 ---
 
